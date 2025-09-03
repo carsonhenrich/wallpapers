@@ -1,0 +1,14 @@
+#+title: CarsonHenrich/Wallpapers
+Heyo! Welcome to my repository of wallpapers which I have gathered from others
+(primarily [[https://github.com/orangci/walls][organci]]). My typical use of this
+repository is in conjunction with [[https://github.com/carsonhenrich/wallpapers-themed][carsonhenrich/wallpapers-themed]] 
+which uses a base16 theme to alter the color palette of an image.
+
+#+TOC: headlines 2
+
+* Acknowledgements
+#+begin_quote
+Disclaimer: These wallpapers do not belong to me and I do not have any credit for them. 
+If you are the artist (or happen to know of the origin of one of these images) 
+please [[mailto:carson03henrich@gmail.com][contact me]] or [[https://github.com/carsonhenrich/wallpapers/issues/new/choose][open an issue]] explaining what you know or how you would like the image to be treated. I will immediately take the wallpaper down or add credit here as requested.
+#+end_quote
